@@ -1,0 +1,65 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+*.log
+*.tlog
+*.config
+*.user
+*.sdf
+*.aps
+*.res
+*.idb
+*.pdb
+*.ipch
+*.ilk
+*.eml
+*.pdf
+*.doc
+*.docx
+*.xls
+*.xlsx
+*.ppt
+*.pptx
+*.opensdf
+*.exp
+*.suo
+*v12.suo
+*.ini
+*.asm
+*.sbr
+*.bsc
+*.tlh
+*.tli
+output/Mail
+output/Email
+output/Log
+ReceiveEmail/Mail
+ReceiveEmail/Email
+ReceiveEmail/Log
+*.ini.bak
